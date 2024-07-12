@@ -1,0 +1,16 @@
+h1{
+    color: #00a400;
+}
+h2{
+    color: rebeccapurple;
+}
+h3{
+    color: hsl(30deg 82% 43%);
+}
+
+h4{
+    color: hsla(237deg 74% 33% / 61%);
+}
+h5{
+    color: hwb(152deg 0% 58% / 70%);
+}
