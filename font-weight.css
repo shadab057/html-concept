@@ -1,0 +1,15 @@
+h3{
+    font-weight: normal; 
+     /* font-weight:  800; */
+     /* text-decoration: underline;
+      */
+      /* text-decoration: overline;
+       */
+       text-decoration: line-through;
+       /* text-decoration-color: aqua; */
+       text-decoration-color: aqua;
+       text-decoration-style: dotted ;
+}
+p{
+    font-weight: bold;
+}
