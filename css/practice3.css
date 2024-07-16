@@ -1,0 +1,15 @@
+h1{
+    /* font-family: system-ui; */
+    /* font-family: cursive; */
+    /* font-family: "Gill Sans", sans-serif; */
+    /* font-family: Georgia, serif; */
+    font-family: serif;
+    color: #ffa511;
+    text-align: center;
+    font-weight: 900;
+   font-size: 55px;
+   letter-spacing: 2px;
+   line-height: 1.25;
+   text-decoration: teal double underline;
+   text-transform: uppercase;
+}
