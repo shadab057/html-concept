@@ -1,0 +1,15 @@
+
+/* Normal line height */
+.normal {
+    line-height: normal;
+}
+
+/* Double line height */
+.double {
+    line-height: 2;
+}
+
+/* Custom line height */
+.custom {
+    line-height: 1.5;
+}
