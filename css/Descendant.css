@@ -1,0 +1,14 @@
+/* Descendant selector example */
+.container p {
+    color: blue;
+}
+
+/* To style nested paragraph specifically */
+.container .nested p {
+    color: green;
+}
+
+/* To demonstrate the effect on paragraphs outside the container */
+body > p {
+    color: red;
+}
