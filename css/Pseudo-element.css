@@ -1,0 +1,5 @@
+.example::before {
+    content: "Note: ";
+    color: red;
+    font-weight: bold;
+}
