@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New';
+}
+
+h3{
+    color: #1b74e4;
+    font-size: large;
+}
+/* #login, #register {
+    background-color: aqua;
+} */
+
+.btn {
+    background-color: aqua;
+}
+
+#searchbtn  {
+    background-color: black;
+    color: white;
+}
